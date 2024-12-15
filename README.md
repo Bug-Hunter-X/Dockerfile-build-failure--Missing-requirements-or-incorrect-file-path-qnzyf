@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: issues with the `COPY` instruction and handling dependencies. The `Dockerfile` initially has an incorrect path for the requirements file, causing the build to fail. The `Dockerfile_fixed` file provides the correct solution.
